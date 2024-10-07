@@ -1,0 +1,15 @@
+x=13+90j
+print(x)
+print(type(x))
+y= -45
+print(y)
+print(type(y)) 
+z=float(y)
+print(z)
+print(type(z))
+n=int(z)
+print(n)
+print(type(n))
+o=complex(y)
+print(o)
+print(type(o))
